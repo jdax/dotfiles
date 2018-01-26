@@ -30,3 +30,9 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-h> <C-w>h
 nnoremap <C-l> <C-w>l
+
+"set numbers show relative line for surrounding, actual line for one cursor is on                                                                   
+set relativenumber                                                              
+set number                                                                      
+set cursorline                                                                
+set colorcolumn=80 
